@@ -1,4 +1,5 @@
 
+
 ------
 
 # 🧠 DeepSeek API + Cherry Studio 使用总结（速查版）
@@ -64,6 +65,7 @@ thinking: enabled
 ## 🎛️ 2. temperature（温度）
 
 ## 📍 位置：
+
 👉 模型设置里的滑条
 
 📊 作用：
