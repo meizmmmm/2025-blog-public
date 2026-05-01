@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "slug": "26-05-01",
+    "title": "deepseek接入（from周bw",
+    "tags": [
+      "ai",
+      "deepseek",
+      "api"
+    ],
+    "date": "2026-05-01T22:23",
+    "summary": "deepseek的api接入",
+    "hidden": false,
+    "category": ""
+  }
+]
