@@ -50,7 +50,7 @@
 			"type": "bilibili",
 			"value": "https://space.bilibili.com/513002599",
 			"label": "bilibili",
-			"order": 3
+			"order": 2
 		},
 		{
 			"id": "email",
